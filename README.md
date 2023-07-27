@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Theo Moreno Lomero</h1>
+<h1 align="center">Hi 🫡, I'm Theo Moreno Lomero</h1>
 <h3 align="center">Computer engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moretheo&label=Profile%20views&color=0e75b6&style=flat" alt="moretheo" /> </p>
